@@ -1,2 +1,3 @@
-# Customer-Churn
-A customer churn prediction project based on a capstone project I have done at the end of an online course on machine learning.
+A Customer Churn Prediction using Logistic Regression done on a jupyter notebook as a capstone project for a machine learning course
+
+This project uses Data Analytics and machine learning concepts to predict customer churn using logistic regression.
